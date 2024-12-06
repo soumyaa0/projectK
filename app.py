@@ -12,7 +12,7 @@ response = client.run_instances(
             'Tags': [
                 {
                     'Key': 'Name',
-                    'Value': 'Boto3-py'  # Replace with your desired instance name
+                    'Value': 'Boto3-py'  # Replace with your desired instance name..!!
                 }
             ]
         }
